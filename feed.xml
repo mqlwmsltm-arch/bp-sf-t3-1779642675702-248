@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title><![CDATA[AI트렌드]]></title>
+  <link>https://sf-t3-1779642675702-248.vercel.app</link>
+  <description><![CDATA[AI트렌드 - 화곡 셔츠룸 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Wed, 10 Jun 2026 18:34:31 GMT</pubDate>
+  <lastBuildDate>Wed, 10 Jun 2026 18:34:31 GMT</lastBuildDate>
+  <atom:link href="https://sf-t3-1779642675702-248.vercel.app/feed.xml" rel="self" type="application/rss+xml" />
+  
+    <item>
+      <title><![CDATA[화곡 셔츠룸 선택 전에 확인할 체크리스트와 실패 사례]]></title>
+      <link>https://sf-t3-1779642675702-248.vercel.app/posts/checklist-001-11h0qdv.html</link>
+      <guid isPermaLink="true">https://sf-t3-1779642675702-248.vercel.app/posts/checklist-001-11h0qdv.html</guid>
+      <description><![CDATA[### 제목: 창작한 제목HACKER NEWS 단골의 파란 눈물: LLM 미세 동작 버그와 GGUF 양자화 아티팩트 #### 소제목 1 - 실패 사례 복기LLM 모델의 히든딤이 잘려나가면서 발생하는 instruction following 저하 현상을 보여주는 실패 사례]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[화곡 셔츠룸에 관한 흔한 오해, 직접 확인해보니 달랐던 점]]></title>
+      <link>https://sf-t3-1779642675702-248.vercel.app/posts/myth-002-11h0qdv.html</link>
+      <guid isPermaLink="true">https://sf-t3-1779642675702-248.vercel.app/posts/myth-002-11h0qdv.html</guid>
+      <description><![CDATA[### 제목: 창작한 제목IPS 패널 로트 특성과 무상교체 조건: 결정의 가変わる 길 #### 소제목1. 백라이트 블리드 문제 알아보기2. 제조사 무상교체 조건 이해하기3. 선택의 어려움과 가장 피해야 할 결론 아, 진 real-life 하드웨어 실패를 보며 느낀 것 ]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+</channel>
+</rss>
